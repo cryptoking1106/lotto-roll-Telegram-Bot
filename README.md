@@ -132,4 +132,4 @@ For support, please contact [@YourSupportHandle](https://t.me/YourSupportHandle)
 - Use `/vioplay` in groups to access the game selection menu
 - All other commands require private chat with the bot
 - Click buttons in the game menu to open respective bots
-- Full game functionality available in private chat 
+- Full game functionality available in private chat
